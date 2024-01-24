@@ -4,7 +4,7 @@ Welcome to my portfolio! This repository showcases my skills, projects, and a bi
 
 ## About Me
 
-Hi, I'm [Your Name], a passionate software developer currently pursuing a Bachelor's degree in Computer Science and Engineering. This portfolio is a reflection of my journey, projects, and skills.
+Hi, I'm Ghanshyam Gupta, a passionate software developer currently pursuing a Bachelor's degree in Computer Science and Engineering. This portfolio is a reflection of my journey, projects, and skills.
 
 ## Technologies Used
 
@@ -38,6 +38,6 @@ Feel free to explore and reach out if you have any questions or suggestions!
 
 - Email: ghanshyamg.cs.22@nitj.ac.in
 - LinkedIn: [[ LinkedIn Profile](https://www.linkedin.com/in/ghanshyam-gupta-a5744528a/)]
-- GitHub: [[ LinkedIn Profile](https://www.linkedin.com/in/ghanshyam-gupta-a5744528a/)]
+- GitHub: [[ Github]((https://github.com/ghanshyamgcs22)https://github.com/ghanshyamgcs22)]
 
 
