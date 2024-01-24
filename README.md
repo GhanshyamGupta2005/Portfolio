@@ -11,7 +11,6 @@ Hi, I'm Ghanshyam Gupta, a passionate software developer currently pursuing a Ba
 - HTML
 - CSS
 - JavaScript
-- [Additional technologies used in your projects, e.g., React, Node.js, etc.]
 
 ## Projects
 
@@ -37,7 +36,7 @@ Feel free to explore and reach out if you have any questions or suggestions!
 ## Contact
 
 - Email: ghanshyamg.cs.22@nitj.ac.in
-- LinkedIn: [ LinkedIn Profile(https://www.linkedin.com/in/ghanshyam-gupta-a5744528a/)]
-- GitHub: [ Github(https://github.com/ghanshyamgcs22)]
+- LinkedIn: [ LinkedIn Profile](https://www.linkedin.com/in/ghanshyam-gupta-a5744528a/)]
+- GitHub: [ Github](https://github.com/ghanshyamgcs22)]
 
 
