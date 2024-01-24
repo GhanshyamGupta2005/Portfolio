@@ -36,7 +36,7 @@ Feel free to explore and reach out if you have any questions or suggestions!
 ## Contact
 
 - Email: ghanshyamg.cs.22@nitj.ac.in
-- LinkedIn: [ LinkedIn Profile](https://www.linkedin.com/in/ghanshyam-gupta-a5744528a/)]
-- GitHub: [ Github](https://github.com/ghanshyamgcs22)]
+- LinkedIn: [[ LinkedIn Profile](https://www.linkedin.com/in/ghanshyam-gupta-a5744528a/)]
+- GitHub: [ [Github](https://github.com/ghanshyamgcs22)]
 
 
